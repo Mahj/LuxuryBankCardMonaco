@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.paulcham.apps.firestarter" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.gomobileme.lbc" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Firestarter</name>
     <description>Premium Ionic 3 Firebase Starter.</description>
     <author email="paulcham91@gmail.com" href="mailto:paulcham91@gmail.com">Paul Cham</author>

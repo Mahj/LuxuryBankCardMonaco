@@ -51,6 +51,7 @@ export class LoaderPage {
         this.navCtrl.setRoot('IntroPage');
         this.splashScreen.hide();
         this.storage.set('introShown', true);
+        this.storage.set('introShown2', true);
       }
     }).catch(() => { });
   }

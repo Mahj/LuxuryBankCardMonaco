@@ -33,6 +33,7 @@ export class MyApp {
     this.initializeApp();
 
     this.pages = [
+      { title: 'Intro', component: 'IntroPage' },
       { title: 'Home', component: 'HomePage' },
       { title: 'Page', component: 'BlankPage' }
     ];
